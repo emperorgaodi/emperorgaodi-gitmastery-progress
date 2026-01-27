@@ -366,5 +366,14 @@
       "Branch 'list' still exists! Remember to rename it to 'feature-list'!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1769499794.622632,
+    "completed_at": 1769499798.855871,
+    "comments": [
+      "Branch 'feature-list' is missing. Did you misspell it?"
+    ],
+    "status": "Incomplete"
   }
 ]
