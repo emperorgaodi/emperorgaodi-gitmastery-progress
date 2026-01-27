@@ -312,5 +312,14 @@
       "Answer for Which numbers are present in stream-2 but not in stream-1? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1769495030.394113,
+    "completed_at": 1769495032.970589,
+    "comments": [
+      "Great work comparing the branches successfully!"
+    ],
+    "status": "Completed"
   }
 ]
